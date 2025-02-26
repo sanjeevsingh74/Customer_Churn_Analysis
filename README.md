@@ -1,3 +1,6 @@
+<img src=https://img.shields.io/badge/build%20with-python-yellow><img src="https://img.shields.io/badge/-Beautiful Soup-blueviolet"><img src="https://img.shields.io/badge/selenium-red">
+<img src="https://img.shields.io/badge/domain-Web%20Scraping-blue.svg">
+
 # Chustomer Churn Analysis 
 
 ## Description : -
