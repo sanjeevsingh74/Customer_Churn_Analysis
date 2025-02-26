@@ -5,7 +5,7 @@
 # 📊 Customer Churn Analysis  
 
 ## 📝 Project Description  
-Customer churn is a critical business issue, especially in subscription-based industries. This project analyzes customer churn data using **SQL, Python (Pandas, Matplotlib, Seaborn), and Excel** to identify patterns and gain insights.  
+Customer churn is a critical business issue, especially in subscription-based industries. This project analyzes customer churn data using **Python (Pandas, Matplotlib, Seaborn), and Excel** to identify patterns and gain insights.  
 
 By performing **data preprocessing, exploratory data analysis (EDA), and visualization**, this project aims to help businesses **reduce customer churn** through actionable insights.  
 
