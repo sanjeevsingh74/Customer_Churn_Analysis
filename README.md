@@ -33,7 +33,8 @@ Follow these steps to set up the project on your local machine:
 # 📊 Customer Churn Analysis  
 
 ## 📌 Project Overview  
-Customer churn is a key challenge for businesses, especially in subscription-based industries. This project focuses on analyzing customer churn data to uncover insights using **SQL, Python (Pandas, Matplotlib, Seaborn), and Excel**.  
+Customer churn is a key challenge for businesses, especially in subscription-based industries.
+This project focuses on analyzing customer churn data to uncover insights using **SQL, Python (Pandas, Matplotlib, Seaborn), and Excel**.  
 
 
 
