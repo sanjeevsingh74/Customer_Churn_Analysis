@@ -1,5 +1,5 @@
-<img src=https://img.shields.io/badge/build%20with-python-yellow><img src="https://img.shields.io/badge/-Beautiful Soup-blueviolet"><img src="https://img.shields.io/badge/selenium-red">
-<img src="https://img.shields.io/badge/domain-Web%20Scraping-blue.svg">
+<img src=https://img.shields.io/badge/build%20with-Numpy-darkyellow><img src="https://img.shields.io/badge/-Pandas-blue"><img src="https://img.shields.io/badge/Matplotlib-darkred"><img src="https://img.shields.io/badge/Seaborn-orange.svg">
+<img src="https://img.shields.io/badge/domain-Sales-blueviolet.svg">
 
 # Chustomer Churn Analysis 
 
