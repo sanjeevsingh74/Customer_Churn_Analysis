@@ -54,8 +54,3 @@ This project focuses on analyzing customer churn data to uncover insights using 
 5️⃣ Click **Commit changes**.  
 
 ---
-
-
-
-
-
