@@ -45,13 +45,16 @@ Customer churn is a key challenge for businesses, especially in subscription-bas
    git clone https://github.com/sanjeevsingh74/Customer_Churn_Analysis.git
 
 
+### ✅ **Steps to Add This to Your GitHub Repository:**  
+1️⃣ Open your **Customer_Churn_Analysis** repository on GitHub.  
+2️⃣ Click on **Add file → Create new file**.  
+3️⃣ Name the file **README.md**.  
+4️⃣ Paste the above content into the file.  
+5️⃣ Click **Commit changes**.  
 
-### ✅ Steps to Add This to Your GitHub Repository:
-1. Open your **Customer_Churn_Analysis** repository on GitHub.  
-2. Click on **Add file → Create new file**.  
-3. Name the file `README.md`.  
-4. Paste the above content into the file.  
-5. Click **Commit changes**.  
+---
+
+
 
 
 
