@@ -1,5 +1,5 @@
 <img src=https://img.shields.io/badge/build%20with-Numpy-darkyellow><img src="https://img.shields.io/badge/-Pandas-blue"><img src="https://img.shields.io/badge/Matplotlib-darkred"><img src="https://img.shields.io/badge/Seaborn-orange.svg">
-<img src="https://img.shields.io/badge/domain-Sales-blueviolet.svg">
+<img src="https://img.shields.io/badge/domain-Telecome Sales-blueviolet.svg">
 
 
 # 📊 Customer Churn Analysis  
